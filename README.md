@@ -1,2 +1,2 @@
 # Device-Drivers
-Device Drivers on ARM7 (LCD ,Switch ,Seven Segment ,...)
+Device Drivers on ARM7 (LCD ,Timers ,Switch ,Seven Segment ,...)
